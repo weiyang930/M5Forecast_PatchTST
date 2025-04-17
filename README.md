@@ -7,8 +7,8 @@ This repository provides a pretrained PatchTST model trained on the M5 Forecasti
 ### 1. Clone the repository and enter the folder
 
 ```bash
-git clone https://github.com/your_username/m5_patchtst.git
-cd m5_patchtst
+git clone https://github.com/your_username/M5Forecast_PatchTST.git
+cd M5Forecast_PatchTST
 ```
 
 ### 2. Install dependencies
